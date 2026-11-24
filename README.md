@@ -28,14 +28,6 @@ To develop a simple Android application that accepts two numbers from the user a
 - Validates empty input fields.
 - Interactive ADD button.
 
-## 📱 Application Screenshots
-
-<!-- Add your application screenshots here -->
-
-| Application Interface | Calculation Output |
-|---|---|
-| Add screenshot here | Add screenshot here |
-
 ## ⚙️ How It Works
 
 1. Launch the Addition Calculator application.
