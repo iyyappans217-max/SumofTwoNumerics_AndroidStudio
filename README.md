@@ -60,20 +60,6 @@ AdditionCalculator/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/iyyappans217-max/SumofTwoNumerics_AndroidStudio
-```
-
-2. Open Android Studio.
-3. Select **Open** and choose the downloaded project folder.
-4. Wait for Gradle synchronization.
-5. Connect an Android device or start an emulator.
-6. Click the green **Run ▶** button.
-7. The Addition Calculator application will launch.
 
 ## Program:
 activity_main_xml
@@ -316,6 +302,22 @@ MainActivity.java
 
 ```
 
+
+## 🚀 How to Run the Project
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/iyyappans217-max/SumofTwoNumerics_AndroidStudio
+```
+
+2. Open Android Studio.
+3. Select **Open** and choose the downloaded project folder.
+4. Wait for Gradle synchronization.
+5. Connect an Android device or start an emulator.
+6. Click the green **Run ▶** button.
+7. The Addition Calculator application will launch.
+   
 ## Output:
 <img width="1541" height="868" alt="ApplicationOutput1" src="https://github.com/user-attachments/assets/0590de78-d0ba-4bd6-87bd-789b182d2ba8" />
 <img width="1541" height="868" alt="ApplicationOutput2" src="https://github.com/user-attachments/assets/941b424d-1fcc-41a6-85a3-c462a1686571" />
